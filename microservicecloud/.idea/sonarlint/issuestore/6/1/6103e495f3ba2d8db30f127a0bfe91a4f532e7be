@@ -1,0 +1,11 @@
+
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°8í‚‡öÉ.
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8ğËôÚÉ.
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8í‚‡öÉ.
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ8í‚‡öÉ.
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8©öàõÉ.

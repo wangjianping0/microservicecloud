@@ -1,0 +1,10 @@
+
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œ¶äùúÿÿÿÿ8±öÛÉ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ´Š×
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¥¡ù‡8±öÛÉ.
+g
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(“©¯8±öÛÉ.
+j
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8±öÛÉ.

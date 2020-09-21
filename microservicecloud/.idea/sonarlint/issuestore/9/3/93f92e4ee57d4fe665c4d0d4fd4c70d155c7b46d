@@ -1,0 +1,13 @@
+
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8ÁÈ¾Ç.
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ8ÁÈ¾Ç.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ñ¦«îøÿÿÿÿ8¾¸ÃÕÈ.
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°8ÁÈ¾Ç.
+p
+java:S1128"NRemove this unused import 'com.atguigu.springcloud.service.DeptClientService'.(°¼†Ùùÿÿÿÿ8‚ÿÛÉ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¼©õ8¤·½ÕÈ.
+j
+java:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ8¶…½ÕÈ.

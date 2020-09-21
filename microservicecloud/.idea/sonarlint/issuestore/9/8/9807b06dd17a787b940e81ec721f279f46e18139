@@ -1,0 +1,13 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²€¢´üÿÿÿÿ8ßõô×É.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤…Áçþÿÿÿÿ
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(è›˜¨ûÿÿÿÿ8ßõô×É.
+X	java:S125%"<This block of commented-out lines of code should be removed.(æŸµÖ8ÒµÒØÉ.
+F
+java:S1905)")Remove this unnecessary cast to "Server".(ÖÄÍ8¬“îØÉ.
+ž
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤ÅŸ¾8ßõô×É.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÍÅðÞùÿÿÿÿ8ßõô×É.
